@@ -1,4 +1,4 @@
-**Ragnar-Locker-Ransomware**
+# Ragnar-Locker-Ransomware
 
 
 **IOCs:**
