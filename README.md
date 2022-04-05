@@ -1,3 +1,6 @@
+**Ragnar-Locker-Ransomware**
+
+
 **IOCs:**
 
 MD5(packed): 6d122b4bfab5e75f3ae903805cbbc641.
